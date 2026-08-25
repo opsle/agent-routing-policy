@@ -1,0 +1,23 @@
+name: Experiment
+description: Propose a falsifiable experiment
+title: "experiment: "
+labels: ["experiment"]
+body:
+  - type: textarea
+    id: hypothesis
+    attributes:
+      label: Hypothesis
+    validations:
+      required: true
+  - type: textarea
+    id: falsifier
+    attributes:
+      label: What result would falsify it?
+    validations:
+      required: true
+  - type: textarea
+    id: baseline
+    attributes:
+      label: Baseline and correctness gate
+    validations:
+      required: true
