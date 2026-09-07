@@ -1,5 +1,7 @@
 # Agent Routing Policy
 
+> Retired as a separate repository on 2026-09-07. Continued in [Opsle Gearbox](https://github.com/opsle/gearbox/tree/main/docs/agent-routing-policy). Specifications, provenance, licenses and any prototype tests were preserved from `43fc2a72d2c8494b2dcdca7b5a209de61d8fe2d8`. See the [migration manifest](https://github.com/opsle/tasks/blob/main/docs/migrations/20260907-consolidation.md) for implementation mapping and rollback. Historical material below describes the original experiment.
+
 > Experimental Opsle research. Claims are hypotheses until evidence supports them.
 
 ## Problem
